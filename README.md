@@ -1,4 +1,4 @@
-# elina
+# Vux Starter
 
 > A Vue.js project
 
